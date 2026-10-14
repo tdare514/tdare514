@@ -30,6 +30,7 @@ A few things I’m building, and work I’ve helped bring to life.
     <td width="50%" valign="top">
       <a href="https://www.emulearning.com"><img src="assets/emulearning-site.jpg" alt="emuLearning homepage with daily practice and a sample math question" width="100%" /></a>
       <h3>emuLearning</h3>
+      <p><sub>🟢 Live</sub></p>
       <p>
         Curated daily practice for Canadian students,
         with learner setup and server-marked sessions.
@@ -47,6 +48,7 @@ A few things I’m building, and work I’ve helped bring to life.
     <td width="50%" valign="top">
       <a href="https://github.com/Omggdavidd/openloops"><img src="assets/open-loops-dashboard.png" alt="Open Loops sample dashboard with responsibilities and pending decisions" width="100%" /></a>
       <h3>Open Loops</h3>
+      <p><sub>🟡 In development</sub></p>
       <p>
         A team demo for the AWS Agents for Humans hackathon.
         Tracks responsibilities across email and calendar with evidence
@@ -66,6 +68,7 @@ A few things I’m building, and work I’ve helped bring to life.
     <td width="50%" valign="top">
       <a href="https://yourbrand-showcase.vercel.app"><img src="assets/yourbrand-site.jpg" alt="YourBrand kitchen renovation homepage" width="100%" /></a>
       <h3>YourBrand</h3>
+      <p><sub>🟡 In development</sub></p>
       <p>
         A website example built for a client working on kitchens,
         bathrooms, and built-ins. Responsive presentation and an
@@ -81,12 +84,13 @@ A few things I’m building, and work I’ve helped bring to life.
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/locally.svg" alt="Locally — your music, close at hand. A plum record and music note surrounded by a rose wave." width="100%" />
+      <a href="https://locally-web-liard.vercel.app"><img src="assets/locally-demo.jpg" alt="Locally library demo with singles and albums, their covers and a search bar" width="100%" /></a>
       <h3>Locally</h3>
+      <p><sub>🟡 In development</sub></p>
       <p>
         A Mac music library tool with an iPhone companion.
         Imports audio, manages metadata and artwork, and prepares
-        music for Spotify Local Files. In development.
+        music for Spotify Local Files.
       </p>
       <p>
         <sub>
@@ -94,6 +98,7 @@ A few things I’m building, and work I’ve helped bring to life.
         </sub>
       </p>
       <p>
+        <a href="https://locally-web-liard.vercel.app">Try the live demo →</a> &nbsp; · &nbsp;
         <a href="https://github.com/tdare514/locally">Explore the source →</a>
       </p>
     </td>
