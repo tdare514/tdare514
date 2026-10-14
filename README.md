@@ -41,7 +41,7 @@ A few things I’m building, and work I’ve helped bring to life.
         </sub>
       </p>
       <p>
-        <strong>Private repository · In development</strong>
+        <a href="https://www.emulearning.com">Visit emuLearning →</a>
       </p>
     </td>
     <td width="50%" valign="top">
