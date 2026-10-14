@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-theme.svg" width="100%" alt="Toby Dare (dareo) — Software and AI development. Peach typography on deep plum with restrained rose arcs and layered panels." />
+  <img src="assets/banner-theme.svg" width="100%" alt="Toby Dare (@tdare514) — Software and AI development. Peach typography on deep plum with restrained rose arcs and layered panels." />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 <h2 id="about">About</h2>
 
-**Hi, I’m Toby Dare (dareo).**
+**Hi, I’m Toby Dare.**
 
 I build web applications, AI-assisted tools, and websites for businesses. My projects span daily learning, following through on commitments, and making personal tools easier to use.
 
@@ -28,7 +28,7 @@ A few things I’m building, and work I’ve helped bring to life.
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/emulearning.svg" alt="emuLearning — a little practice, every day. An open book, floating paper and rose energy." width="100%" />
+      <a href="https://www.emulearning.com"><img src="assets/emulearning-site.jpg" alt="emuLearning homepage with daily practice and a sample math question" width="100%" /></a>
       <h3>emuLearning</h3>
       <p>
         Curated daily practice for Canadian students,
@@ -45,7 +45,7 @@ A few things I’m building, and work I’ve helped bring to life.
       </p>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/open-loops.svg" alt="Open Loops — from signal to follow-through. A rose ribbon loops around a floating note." width="100%" />
+      <a href="https://github.com/Omggdavidd/openloops"><img src="assets/open-loops-dashboard.png" alt="Open Loops sample dashboard with responsibilities and pending decisions" width="100%" /></a>
       <h3>Open Loops</h3>
       <p>
         A team demo for the AWS Agents for Humans hackathon.
@@ -64,7 +64,7 @@ A few things I’m building, and work I’ve helped bring to life.
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/yourbrand.svg" alt="YourBrand — a space for good craft. Warm peach cabinetry with coral and plum shadows." width="100%" />
+      <a href="https://yourbrand-showcase.vercel.app"><img src="assets/yourbrand-site.jpg" alt="YourBrand kitchen renovation homepage" width="100%" /></a>
       <h3>YourBrand</h3>
       <p>
         A website example built for a client working on kitchens,
@@ -104,10 +104,13 @@ A few things I’m building, and work I’ve helped bring to life.
 
 Currently building **emuLearning** and **Locally** — daily practice and a more useful home for personal music.
 
-Have a project in mind? [Let’s talk →](mailto:dareoluwatoby@gmail.com)
+<p align="center">Have a project in mind?</p>
+<p align="center">
+  <a href="mailto:dareoluwatoby@gmail.com"><img src="assets/contact-button.svg" width="240" alt="Reach out to me — email dareoluwatoby@gmail.com" /></a>
+</p>
 
 <br />
 
 <p align="center">
-  <sub>Toby Dare · <a href="https://github.com/tdare514">@tdare514</a> · dareo</sub>
+  <sub>Toby Dare · <a href="https://github.com/tdare514">@tdare514</a></sub>
 </p>
