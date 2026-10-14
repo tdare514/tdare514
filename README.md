@@ -102,12 +102,11 @@ A few things I’m building, and work I’ve helped bring to life.
 
 <br />
 
-Currently building **emuLearning** and **Locally** — daily practice and a more useful home for personal music.
-
-<p align="center">Have a project in mind?</p>
 <p align="center">
   <a href="mailto:dareoluwatoby@gmail.com"><img src="assets/contact-button.svg" width="240" alt="Reach out to me — email dareoluwatoby@gmail.com" /></a>
 </p>
+
+<p align="center">Always open to discuss bold ideas and software that solves real problems.</p>
 
 <br />
 
