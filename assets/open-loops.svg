@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
-  <title id="title">Open Loops</title>
-  <desc id="desc">Original title illustration for Open Loops: FROM SIGNAL TO FOLLOW-THROUGH.</desc>
-  <rect width="800" height="300" rx="12" fill="#111e29"/>
-  <path d="M32 32H768M32 268H768" stroke="#8db8ac" stroke-opacity=".35"/>
-  <g fill="none" stroke="#8db8ac" stroke-width="2"><path d="M641 92a57 57 0 1 0 54 79M666 108a57 57 0 1 1-54 79"/><circle cx="641" cy="92" r="5" fill="#8db8ac"/><circle cx="666" cy="108" r="5" fill="#8db8ac"/></g>
-  <text x="40" y="158" fill="#f5efdf" font-family="Georgia, serif" font-size="48">Open Loops</text>
-  <text x="42" y="200" fill="#a7b5bc" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">FROM SIGNAL TO FOLLOW-THROUGH</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc"><title id="title">Open Loops</title><desc id="desc">A rose ribbon loops around a floating note.</desc><rect width="800" height="360" fill="#F5F5F5"/><text x="34" y="115" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Open Loops</text><g transform="translate(551 162)"><path d="M31 133C-36 82 25 6 105 18C190 31 196 126 126 151C72 171 19 138 39 100C44 90 55 83 65 79C34 114 76 147 121 133C183 114 167 41 106 33C44 23 6 75 31 133Z" fill="#9A3F59"/><path d="M31 133C-22 86 32 20 102 27C165 34 184 94 145 127C167 83 145 46 99 43C46 37 11 85 31 133Z" fill="#F15B89"/><path d="M59 37Q95 17 132 45" fill="none" stroke="#F5A06B" stroke-width="5"/><path d="M77 62L127 48L145 110L91 125Z" fill="#542137"/><path d="M72 55L121 42L139 104L85 117Z" fill="#FFE2CB"/><path d="M84 70L113 63M88 82L122 73M92 94L112 88" stroke="#F5A06B" stroke-width="4"/><path d="M171 11L178 27L195 29L179 38L177 54L168 39L153 34L169 27Z" fill="#F15B89"/></g></svg>

@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
-  <title id="title">YourBrand</title>
-  <desc id="desc">Original title illustration for YourBrand: A SPACE FOR GOOD CRAFT.</desc>
-  <rect width="800" height="300" rx="12" fill="#111e29"/>
-  <path d="M32 32H768M32 268H768" stroke="#8db8ac" stroke-opacity=".35"/>
-  <g fill="none" stroke="#8db8ac" stroke-width="2"><path d="M593 207V97h128v110zM593 133h128M641 133v74M677 133v74M607 115h17M655 151v17M691 151v17"/><path d="M582 218h150"/></g>
-  <text x="40" y="158" fill="#f5efdf" font-family="Georgia, serif" font-size="48">YourBrand</text>
-  <text x="42" y="200" fill="#a7b5bc" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">A SPACE FOR GOOD CRAFT</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc"><title id="title">YourBrand</title><desc id="desc">Warm peach cabinetry with coral and plum shadows.</desc><rect width="800" height="360" fill="#F5F5F5"/><text x="34" y="115" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">YourBrand</text><g transform="translate(551 162)"><path d="M25 31L152 16L179 44L180 159L28 165Z" fill="#542137"/><path d="M32 34L151 24L155 153L34 158Z" fill="#9A3F59"/><path d="M42 46L92 42L94 91L43 94Z" fill="#F5A06B"/><path d="M101 41L141 37L144 88L103 91Z" fill="#FFE2CB"/><path d="M44 104L95 101L96 147L44 150Z" fill="#FFE2CB"/><path d="M104 101L145 98L147 145L105 147Z" fill="#F5A06B"/><path d="M133 112L134 129M83 115L83 132" stroke="#542137" stroke-width="4"/><path d="M36 96L151 91L158 100L31 106Z" fill="#F15B89"/><path d="M162 30Q189 53 190 96L176 87Z" fill="#F15B89" opacity=".65"/><path d="M7 162Q89 145 195 155L177 170L16 176Z" fill="#F5A06B" opacity=".35"/></g></svg>

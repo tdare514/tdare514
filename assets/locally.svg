@@ -1,9 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
-  <title id="title">Locally</title>
-  <desc id="desc">Original title illustration for Locally: YOUR MUSIC, CLOSE AT HAND.</desc>
-  <rect width="800" height="300" rx="12" fill="#111e29"/>
-  <path d="M32 32H768M32 268H768" stroke="#8db8ac" stroke-opacity=".35"/>
-  <g fill="none" stroke="#8db8ac" stroke-width="2"><rect x="597" y="87" width="119" height="127" rx="7"/><path d="M626 177V125l57-10v50M626 137l57-10"/><ellipse cx="616" cy="179" rx="10" ry="7"/><ellipse cx="673" cy="167" rx="10" ry="7"/></g>
-  <text x="40" y="158" fill="#f5efdf" font-family="Georgia, serif" font-size="48">Locally</text>
-  <text x="42" y="200" fill="#a7b5bc" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">YOUR MUSIC, CLOSE AT HAND</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="360" viewBox="0 0 800 360" role="img" aria-labelledby="title desc"><title id="title">Locally</title><desc id="desc">A plum record and music note surrounded by a rose wave.</desc><rect width="800" height="360" fill="#F5F5F5"/><text x="34" y="115" fill="#000000" font-family="Arial, Helvetica, sans-serif" font-size="76" font-weight="700" letter-spacing="-3">Locally</text><g transform="translate(551 162)"><path d="M103 24C149 21 177 58 175 103C172 147 135 171 95 166C49 162 24 126 29 86C32 48 63 26 103 24Z" fill="#542137"/><path d="M101 41C136 37 159 65 158 99C156 130 128 153 98 148C64 146 44 120 46 89C49 63 71 44 101 41Z" fill="#9A3F59"/><path d="M101 53C128 50 146 73 146 99C144 124 125 138 100 137C75 136 56 117 58 91C60 71 79 55 101 53Z" fill="#542137"/><path d="M100 76Q124 74 125 97Q123 119 100 117Q78 117 78 96Q79 77 100 76Z" fill="#F5A06B"/><circle cx="101" cy="97" r="5" fill="#FFE2CB"/><path d="M0 130Q7 81 63 91Q99 96 147 74Q183 55 194 30Q191 77 150 92Q105 113 61 106Q18 98 0 130Z" fill="#F15B89"/><path d="M6 143Q41 116 76 126Q141 144 188 97" fill="none" stroke="#F5A06B" stroke-width="4"/><path d="M163 5L190 0L193 30L183 32L181 12L168 15L171 39L160 42Z" fill="#542137"/></g></svg>
