@@ -7,7 +7,7 @@
 </p>
 
 <p>
-  <img src="assets/banner.svg" alt="Toby Dare / dareo — Software and websites. Building for learning, everyday tools, and the web." width="100%" />
+  <img src="assets/banner.svg" alt="Toby Dare in oversized type. Smaller footer: Software and AI development. Building for learning, everyday tools, and the web. dareo." width="100%" />
 </p>
 
 <h2 id="about">About</h2>
