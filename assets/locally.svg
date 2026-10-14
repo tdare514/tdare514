@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
+  <title id="title">Locally</title>
+  <desc id="desc">Original title illustration for Locally: YOUR MUSIC, CLOSE AT HAND.</desc>
+  <rect width="800" height="300" rx="12" fill="#111e29"/>
+  <path d="M32 32H768M32 268H768" stroke="#8db8ac" stroke-opacity=".35"/>
+  <g fill="none" stroke="#8db8ac" stroke-width="2"><rect x="597" y="87" width="119" height="127" rx="7"/><path d="M626 177V125l57-10v50M626 137l57-10"/><ellipse cx="616" cy="179" rx="10" ry="7"/><ellipse cx="673" cy="167" rx="10" ry="7"/></g>
+  <text x="40" y="158" fill="#f5efdf" font-family="Georgia, serif" font-size="48">Locally</text>
+  <text x="42" y="200" fill="#a7b5bc" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">YOUR MUSIC, CLOSE AT HAND</text>
+</svg>

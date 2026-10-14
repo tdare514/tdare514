@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300" role="img" aria-labelledby="title desc">
+  <title id="title">emuLearning</title>
+  <desc id="desc">Original title illustration for emuLearning: A LITTLE PRACTICE, EVERY DAY.</desc>
+  <rect width="800" height="300" rx="12" fill="#111e29"/>
+  <path d="M32 32H768M32 268H768" stroke="#8db8ac" stroke-opacity=".35"/>
+  <g fill="none" stroke="#8db8ac" stroke-width="2"><circle cx="657" cy="148" r="65"/><path d="M610 148h94M657 101v94M624 115l66 66M624 181l66-66"/><circle cx="657" cy="148" r="21" fill="#111e29"/></g>
+  <text x="40" y="158" fill="#f5efdf" font-family="Georgia, serif" font-size="48">emuLearning</text>
+  <text x="42" y="200" fill="#a7b5bc" font-family="Arial, sans-serif" font-size="17" letter-spacing="2">A LITTLE PRACTICE, EVERY DAY</text>
+</svg>

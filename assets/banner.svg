@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
+  <title id="title">Toby Dare · dareo</title>
+  <desc id="desc">Software for learning, everyday tools, and the web. Warm cream lettering on navy with a thin teal line motif.</desc>
+  <rect width="1400" height="440" rx="14" fill="#111e29"/>
+  <g fill="none" stroke="#8db8ac" stroke-width="1.5" opacity=".6">
+    <path d="M64 56h1272M64 384h1272M1010 110h240v220h-240zM1046 146h168v148h-168zM1082 182h96v76h-96z"/>
+    <path d="M1010 110l72 72M1250 110l-72 72M1010 330l72-72M1250 330l-72-72"/>
+    <circle cx="1130" cy="220" r="19"/>
+  </g>
+  <text x="76" y="122" fill="#8db8ac" font-family="Arial, sans-serif" font-size="20" letter-spacing="5">dareo</text>
+  <text x="72" y="249" fill="#f5efdf" font-family="Georgia, serif" font-size="110">Toby Dare</text>
+  <text x="78" y="316" fill="#f5efdf" font-family="Arial, sans-serif" font-size="27">Software for learning, everyday tools, and the web.</text>
+</svg>
