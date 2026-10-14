@@ -1,20 +1,18 @@
 <p align="center">
-  <a href="#selected-work"><img src="assets/nav-projects.svg" alt="Projects" width="112" height="38" /></a>
-  &nbsp;
-  <a href="#about"><img src="assets/nav-about.svg" alt="About" width="96" height="38" /></a>
-  &nbsp;
-  <a href="mailto:dareoluwatoby@gmail.com"><img src="assets/nav-contact.svg" alt="Contact" width="112" height="38" /></a>
+  <img src="assets/banner-plum.png" width="100%" alt="Toby Dare (dareo) — Software and AI development. Plum banner with a glowing book and rose accents." />
 </p>
 
-<p>
-  <img src="assets/banner.svg" alt="Toby Dare in oversized type. Smaller footer: Software and AI development. Building for learning, everyday tools, and the web. dareo." width="100%" />
+<p align="center">
+  <strong><a href="#selected-work">Selected work</a> &nbsp; · &nbsp; <a href="#about">About</a> &nbsp; · &nbsp; <a href="mailto:dareoluwatoby@gmail.com">Email</a></strong>
 </p>
 
 <h2 id="about">About</h2>
 
+**Hi, I’m Toby Dare (dareo).**
+
 I build web applications, AI-assisted tools, and websites for businesses. My projects span daily learning, following through on commitments, and making personal tools easier to use.
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&amp;logo=typescript&amp;logoColor=FFFFFF" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&amp;logo=nextdotjs&amp;logoColor=FFFFFF" alt="Next.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&amp;logo=postgresql&amp;logoColor=FFFFFF" alt="PostgreSQL" />
