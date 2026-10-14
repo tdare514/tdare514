@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner-plum.png" width="100%" alt="Toby Dare (dareo) — Software and AI development. Plum banner with a glowing book and rose accents." />
+  <img src="assets/banner-theme.svg" width="100%" alt="Toby Dare (dareo) — Software and AI development. Peach typography on deep plum with restrained rose arcs and layered panels." />
 </p>
 
 <p align="center">

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Toby Dare / dareo — Software and AI development.</title>
+  <desc id="desc">Peach typography on a smooth deep plum background, with restrained rose arcs and layered angular panels on the right.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#291321"/>
+      <stop offset="1" stop-color="#542137"/>
+    </linearGradient>
+    <clipPath id="bounds"><rect width="1280" height="340" rx="16"/></clipPath>
+  </defs>
+  <g clip-path="url(#bounds)">
+    <rect width="1280" height="340" fill="url(#background)"/>
+    <g>
+      <path d="M966 -28H1201L1114 368H879Z" fill="#291321" opacity=".42"/>
+      <path d="M1073 41H1311L1249 302H1011Z" fill="#FFE2CB" opacity=".065"/>
+      <path d="M1132 96H1291L1256 247H1097Z" fill="#9A3F59" opacity=".22"/>
+      <path d="M1335 -95C1015 -85 856 83 928 260C976 378 1166 420 1335 328" fill="none" stroke="#9A3F59" stroke-width="44" opacity=".55"/>
+      <path d="M1330 -48C1063 -39 920 103 979 247C1021 347 1184 381 1323 310" fill="none" stroke="#F15B89" stroke-width="13" opacity=".75"/>
+      <path d="M1316 8C1112 12 994 116 1033 222" fill="none" stroke="#FFE2CB" stroke-width="2" opacity=".28"/>
+      <circle cx="1188" cy="77" r="5" fill="#FFE2CB" opacity=".6"/>
+    </g>
+    <g font-family="Arial, Helvetica, sans-serif" fill="#FFE2CB">
+      <text x="48" y="65" font-size="18" letter-spacing="4">dareo</text>
+      <text x="44" y="172" font-size="82" font-weight="700" letter-spacing="-3">Toby Dare</text>
+      <text x="48" y="225" font-size="24">Software &amp; AI development.</text>
+    </g>
+    <path d="M48 266H700" fill="none" stroke="#F15B89" stroke-width="1" opacity=".65"/>
+  </g>
+</svg>
