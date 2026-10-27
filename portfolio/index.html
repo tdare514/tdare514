@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#211525">
+  <meta name="description" content="Toby Dare builds thoughtful websites, lightweight business tools, and software products.">
+  <title>Toby Dare — Websites & Software</title>
+  <style>
+    :root{color-scheme:light;--ink:#211525;--muted:#726872;--paper:#fbf8f5;--white:#fff;--line:#e9e1e5;--rose:#e78a9a;--peach:#f7c3a5;--plum:#37243b;--serif:Georgia,'Times New Roman',serif;--sans:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+    *{box-sizing:border-box}html{scroll-behavior:smooth}body{margin:0;background:var(--paper);color:var(--ink);font-family:var(--sans);line-height:1.55}a{color:inherit} .wrap{width:min(1120px,calc(100% - 48px));margin:auto}
+    .top{display:flex;justify-content:space-between;align-items:center;padding:24px 0}.wordmark{font-weight:750;letter-spacing:-.04em;text-decoration:none}.wordmark span{color:#b9566e}.nav{display:flex;gap:27px;font-size:13px;color:var(--muted)}.nav a{text-decoration:none}.nav a:hover{color:var(--ink)}
+    .hero{position:relative;overflow:hidden;background:var(--ink);color:#fff;border-radius:22px;padding:74px 7.5% 66px;isolation:isolate}.hero:before,.hero:after{content:"";position:absolute;border:1px solid rgba(247,195,165,.25);border-radius:50%;z-index:-1}.hero:before{width:570px;height:570px;right:-220px;top:-265px}.hero:after{width:400px;height:400px;right:-105px;top:-180px}.eyebrow{font-size:11px;letter-spacing:.18em;text-transform:uppercase;color:var(--peach);font-weight:700}.hero h1{max-width:790px;margin:19px 0 18px;font:400 clamp(42px,7vw,78px)/1.02 var(--serif);letter-spacing:-.045em}.hero h1 em{color:var(--peach);font-weight:400}.hero-copy{max-width:560px;color:#d5cbd3;font-size:16px}.actions{display:flex;align-items:center;gap:18px;flex-wrap:wrap;margin-top:30px}.button{display:inline-flex;align-items:center;justify-content:center;min-height:48px;padding:0 20px;border-radius:999px;background:var(--peach);color:var(--ink);font-size:13px;font-weight:750;text-decoration:none}.text-link{font-size:13px;color:#f2e8eb;text-underline-offset:4px}
+    .section{padding:76px 0 0}.section-head{display:flex;align-items:end;justify-content:space-between;gap:24px;margin-bottom:25px}.kicker{font-size:11px;letter-spacing:.15em;text-transform:uppercase;font-weight:750;color:#aa566b}.section h2{font:400 clamp(30px,4vw,44px)/1.1 var(--serif);letter-spacing:-.035em;margin:8px 0 0}.section-intro{max-width:400px;color:var(--muted);font-size:13px;margin:0}
+    .work-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}.work-card{background:var(--white);border:1px solid var(--line);border-radius:16px;overflow:hidden;display:flex;flex-direction:column;min-height:330px}.card-art{height:164px;position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center}.art-home{background:#eee5de}.art-home:before{content:"";width:63%;height:68%;border:1px solid rgba(33,21,37,.25);border-bottom:0;transform:perspective(240px) rotateX(2deg);background:linear-gradient(90deg,transparent 49%,rgba(33,21,37,.14) 50%,transparent 51%),linear-gradient(0deg,transparent 48%,rgba(33,21,37,.14) 49%,transparent 50%),#f8f4ef}.art-home:after{content:"YOUR BRAND";position:absolute;font:11px var(--serif);letter-spacing:.22em;color:#594a4c}.art-cabinet{background:#efe7dd}.cabinet{width:70%;height:72%;background:linear-gradient(90deg,#c9b7a6 0 32%,#e2d4c5 32% 34%,#c9b7a6 34% 66%,#e2d4c5 66% 68%,#c9b7a6 68%);border:8px solid #f8f3ed;box-shadow:0 10px 24px #43342a1c}.cabinet:after{content:"";display:block;width:4px;height:4px;border-radius:50%;background:#75675c;margin:38px auto}.art-food{background:#31241f}.plate{width:120px;height:120px;border-radius:50%;background:radial-gradient(circle at 50% 50%,#c96b42 0 21%,#e7bd71 22% 33%,#f2eee4 34% 48%,#d7d0c1 49% 52%,transparent 53%);filter:drop-shadow(0 9px 9px #0005)}.card-body{padding:20px 21px 22px;display:flex;flex:1;flex-direction:column}.tag{font-size:10px;letter-spacing:.12em;text-transform:uppercase;color:#a35668;font-weight:750}.card-body h3{font:400 23px var(--serif);margin:8px 0}.card-body p{font-size:13px;color:var(--muted);margin:0 0 16px}.card-link{font-size:12px;font-weight:700;text-decoration:none;margin-top:auto}.card-link span{color:#b9566e}
+    .offer{margin-top:70px;background:#f2e8e6;border-radius:18px;padding:35px 38px;display:grid;grid-template-columns:1.1fr .9fr;gap:30px;align-items:center}.offer h2{font:400 32px/1.1 var(--serif);margin:7px 0 10px}.offer p{font-size:13px;color:var(--muted);max-width:480px;margin:0}.offer-list{display:grid;grid-template-columns:1fr 1fr;gap:10px}.offer-list span{background:#fff9;border:1px solid #e8dada;border-radius:9px;padding:11px 12px;font-size:12px}
+    .software{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}.software-item{padding:21px 22px;border:1px solid var(--line);border-radius:14px;background:#fff}.software-item .num{font:italic 14px var(--serif);color:#b9566e}.software-item h3{font:400 21px var(--serif);margin:8px 0 6px}.software-item p{font-size:12px;color:var(--muted);margin:0 0 12px}.software-item a{font-size:11px;text-decoration:none;font-weight:700}
+    .about{display:grid;grid-template-columns:.8fr 1.2fr;gap:55px;align-items:start;padding-bottom:78px}.about-copy{font-size:14px;color:#564d56}.about-copy strong{color:var(--ink)}.chips{display:flex;flex-wrap:wrap;gap:8px;margin-top:18px}.chips span{border:1px solid var(--line);border-radius:99px;padding:6px 10px;color:#615761;font-size:11px}.contact{background:#25182a;color:white;border-radius:18px;padding:28px 30px}.contact h3{font:400 28px var(--serif);margin:5px 0 8px}.contact p{font-size:13px;color:#d8cbd8;margin:0 0 20px}.contact .button{min-height:42px}.footer{border-top:1px solid var(--line);padding:20px 0 27px;color:var(--muted);font-size:11px;display:flex;justify-content:space-between}.footer a{text-decoration:none}
+    @media(max-width:760px){.wrap{width:min(100% - 30px,600px)}.nav{gap:14px;font-size:12px}.hero{padding:54px 27px 48px}.hero:before{right:-410px}.hero:after{right:-325px}.hero-copy{font-size:14px}.section{padding-top:56px}.section-head{display:block}.section-intro{margin-top:12px}.work-grid{grid-template-columns:1fr}.work-card{min-height:0}.card-art{height:190px}.offer{grid-template-columns:1fr;padding:27px 23px;margin-top:52px}.software{grid-template-columns:1fr}.about{grid-template-columns:1fr;gap:27px;padding-bottom:55px}.footer{gap:15px;flex-wrap:wrap}}
+    @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+  </style>
+</head>
+<body>
+  <header class="wrap top">
+    <a class="wordmark" href="#top">Toby <span>Dare</span></a>
+    <nav class="nav" aria-label="Main navigation"><a href="#work">Websites</a><a href="#software">Software</a><a href="#about">About</a><a href="#contact">Contact</a></nav>
+  </header>
+  <main id="top">
+    <section class="wrap hero">
+      <div class="eyebrow">Websites · lightweight software · Mississauga, Ontario</div>
+      <h1>Good work deserves<br>a <em>better front door.</em></h1>
+      <p class="hero-copy">I build clear, useful websites and small digital tools for businesses. From a stronger first impression to a smoother quote or booking flow, I help turn the next idea into something people can use.</p>
+      <div class="actions"><a class="button" href="mailto:dareoluwatoby@gmail.com?subject=Let%E2%80%99s%20talk%20about%20a%20project">Talk about a project</a><a class="text-link" href="#work">See website demos ↓</a></div>
+    </section>
+
+    <section class="wrap section" id="work">
+      <div class="section-head"><div><div class="kicker">Built to be explored</div><h2>Website demos</h2></div><p class="section-intro">A few examples of how I approach presentation, service details, and getting an enquiry started. These are portfolio demos, not claims of business results.</p></div>
+      <div class="work-grid">
+        <article class="work-card"><div class="card-art art-home" role="img" aria-label="Abstract interior design website preview"></div><div class="card-body"><div class="tag">Home renovation · demo</div><h3>YourBrand</h3><p>A polished home for a kitchen, bathroom, and built-ins business, with a responsive layout and enquiry path.</p><a class="card-link" href="https://yourbrand-showcase.vercel.app" target="_blank" rel="noreferrer">Open live demo <span>↗</span></a></div></article>
+        <article class="work-card"><div class="card-art art-cabinet" role="img" aria-label="Cabinetry-inspired website preview"><div class="cabinet"></div></div><div class="card-body"><div class="tag">Cabinetry · demo</div><h3>M.G. Cabinets</h3><p>A custom cabinet and millwork concept focused on craftsmanship, project imagery, and making quote requests easier.</p><a class="card-link" href="mailto:dareoluwatoby@gmail.com?subject=Show%20me%20the%20M.G.%20Cabinets%20demo">Ask me to open the demo <span>→</span></a></div></article>
+        <article class="work-card"><div class="card-art art-food" role="img" aria-label="Restaurant-inspired website preview"><div class="plate"></div></div><div class="card-body"><div class="tag">Food & hospitality · demo</div><h3>Frankie’s Jerk</h3><p>A restaurant website concept that gives the menu, atmosphere, and customer next steps a clear place online.</p><a class="card-link" href="mailto:dareoluwatoby@gmail.com?subject=Show%20me%20the%20Frankie%E2%80%99s%20Jerk%20demo">Ask me to open the demo <span>→</span></a></div></article>
+      </div>
+    </section>
+
+    <section class="wrap offer" aria-label="Services"><div><div class="kicker">For small businesses</div><h2>Make the next step easier.</h2><p>Need a sharper website, a quote form that asks the right questions, or a simple tool to reduce repetitive admin? Let’s start with the part that would help your customers most.</p></div><div class="offer-list"><span>Website refreshes</span><span>Landing pages</span><span>Quote & booking flows</span><span>Lightweight internal tools</span></div></section>
+
+    <section class="wrap section" id="software">
+      <div class="section-head"><div><div class="kicker">Product thinking in practice</div><h2>Software I’m building</h2></div><p class="section-intro">These projects show how I work through a problem, shape a product, and connect the details into a usable experience.</p></div>
+      <div class="software">
+        <article class="software-item"><div class="num">01 / Learning</div><h3>emuLearning</h3><p>A daily practice experience for Canadian students, with learner setup and structured sessions.</p><a href="https://www.emulearning.com" target="_blank" rel="noreferrer">Visit the product ↗</a></article>
+        <article class="software-item"><div class="num">02 / Personal tools</div><h3>Locally</h3><p>A music library tool exploring import, metadata, artwork, and a companion experience.</p><a href="https://locally-web-liard.vercel.app" target="_blank" rel="noreferrer">Try the demo ↗</a></article>
+        <article class="software-item"><div class="num">03 / AI workflow</div><h3>Open Loops</h3><p>A team hackathon demo for tracking responsibilities across email and calendar, with evidence and approval steps.</p><a href="https://github.com/Omggdavidd/openloops" target="_blank" rel="noreferrer">Explore the project ↗</a></article>
+      </div>
+    </section>
+
+    <section class="wrap section about" id="about">
+      <div><div class="kicker">A bit about me</div><h2>From idea<br>to working product.</h2></div>
+      <div><p class="about-copy"><strong>I’m Toby, a Computer Science student at the University of Guelph and a project manager, analyst, and developer.</strong> I’ve worked on MVP planning, product requirements, web projects, and coordinating teams. I like getting close to the real problem, making a practical first version, and improving it with the people who will use it.</p><div class="chips"><span>Web development</span><span>Product & project work</span><span>Python · Java · TypeScript</span><span>Jira · GitHub · Figma</span></div></div>
+    </section>
+    <section class="wrap contact" id="contact"><div class="kicker">Have something in mind?</div><h3>Tell me what you’re trying to improve.</h3><p>Share the business, the problem, and what a useful result would look like. I’ll reply with a practical next step.</p><a class="button" href="mailto:dareoluwatoby@gmail.com?subject=Website%20or%20software%20project">Email Toby</a></section>
+  </main>
+  <footer class="wrap footer"><span>© 2026 Toby Dare · Mississauga, Ontario</span><span><a href="https://github.com/tdare514" target="_blank" rel="noreferrer">GitHub</a> · <a href="mailto:dareoluwatoby@gmail.com">Email</a></span></footer>
+</body>
+</html>
