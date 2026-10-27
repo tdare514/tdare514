@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <strong><a href="#selected-work">Selected work</a> &nbsp; · &nbsp; <a href="#about">About</a> &nbsp; · &nbsp; <a href="mailto:dareoluwatoby@gmail.com">Email</a></strong>
+  <strong><a href="https://toby-dare-portfolio.tdare514.chatgpt.site">Portfolio</a> &nbsp; · &nbsp; <a href="#selected-work">Selected work</a> &nbsp; · &nbsp; <a href="#about">About</a> &nbsp; · &nbsp; <a href="mailto:dareoluwatoby@gmail.com">Email</a></strong>
 </p>
 
 <h2 id="about">About</h2>
@@ -23,7 +23,7 @@ I build web applications, AI-assisted tools, and websites for businesses. My pro
 
 <h2 id="selected-work">Selected work</h2>
 
-A few things I’m building, and work I’ve helped bring to life.
+A few things I’m building, and work I’ve helped bring to life. <a href="https://toby-dare-portfolio.tdare514.chatgpt.site">See the full portfolio, including more small-business website demos →</a>
 
 <table>
   <tr>
