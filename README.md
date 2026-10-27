@@ -23,7 +23,7 @@ I build web applications, AI-assisted tools, and websites for businesses. My pro
 
 <h2 id="selected-work">Selected work</h2>
 
-A few things I’m building, and work I’ve helped bring to life. <a href="https://toby-dare-portfolio.tdare514.chatgpt.site">See the full portfolio, including more small-business website demos →</a>
+A few things I’m building, and work I’ve helped bring to life. <a href="https://toby-dare-portfolio.tdare514.chatgpt.site">See the full portfolio, including more small-business website demos →</a> · <a href="https://github.com/tdare514/tdare514/blob/main/portfolio/index.html">View its source</a>
 
 <table>
   <tr>
