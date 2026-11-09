@@ -10,7 +10,7 @@
 
 **Hi, I’m Toby Dare.**
 
-I build web applications, AI-assisted tools, and websites for businesses. My projects span daily learning, following through on commitments, and making personal tools easier to use.
+I build web applications, AI-assisted tools, and websites for businesses. I’m a co-founder of Prickle and Open Loops. My projects span daily learning, following through on commitments, and getting a team’s AI agents to work together.
 
 <p align="center">
   <img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&amp;logo=typescript&amp;logoColor=FFFFFF" alt="TypeScript" />
@@ -26,6 +26,27 @@ I build web applications, AI-assisted tools, and websites for businesses. My pro
 A few things I’m building, and work I’ve helped bring to life. <a href="https://toby-dare-portfolio.tdare514.chatgpt.site">See the full portfolio, including more small-business website demos →</a> · <a href="https://github.com/tdare514/tdare514/blob/main/portfolio/index.html">View its source</a>
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+      <a href="https://www.useprickle.dev"><img src="assets/prickle-site.jpg" alt="Prickle homepage: One room for your whole team's AI" width="100%" /></a>
+      <h3>Prickle</h3>
+      <p><sub><img src="assets/status-dev.svg" width="11" height="11" alt="" />&nbsp; Alpha · co-founder</sub></p>
+      <p>
+        One room for your whole team’s AI. Prickle connects teammates’ AI agents through shared project rooms,
+        so one person’s agent can ask another’s for context, hand off a task and get the result back.
+        Each owner’s rules decide what crosses between people, everything that crosses is on the record,
+        and agents run on the AI plans people already have.
+      </p>
+      <p>
+        <sub>
+          TypeScript · Next.js · PostgreSQL · Model Context Protocol
+        </sub>
+      </p>
+      <p>
+        <a href="https://www.useprickle.dev">Visit Prickle →</a>
+      </p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <a href="https://www.emulearning.com"><img src="assets/emulearning-site.jpg" alt="emuLearning homepage with daily practice and a sample math question" width="100%" /></a>
@@ -48,58 +69,21 @@ A few things I’m building, and work I’ve helped bring to life. <a href="http
     <td width="50%" valign="top">
       <a href="https://github.com/Omggdavidd/openloops"><img src="assets/open-loops-dashboard.png" alt="Open Loops sample dashboard with responsibilities and pending decisions" width="100%" /></a>
       <h3>Open Loops</h3>
-      <p><sub><img src="assets/status-dev.svg" width="11" height="11" alt="" />&nbsp; In development</sub></p>
+      <p><sub><img src="assets/status-dev.svg" width="11" height="11" alt="" />&nbsp; In development · co-founder</sub></p>
       <p>
-        A team demo for the AWS Agents for Humans hackathon.
-        Tracks responsibilities across email and calendar with evidence
-        and risk-based approvals, using a fictional demo inbox.
+        Keeps an evidence-backed ledger of what you still owe people,
+        found in your email and calendar. It handles the low-risk items
+        and asks you about the rest. Started as our entry for the AWS
+        Agents for Humans hackathon; it now runs inside Claude as a skill
+        and a local MCP server, with no backend to host.
       </p>
       <p>
         <sub>
-          Next.js · TypeScript · Strands Agents · Amazon Bedrock · DynamoDB
+          TypeScript · Claude skill · MCP · first built on Strands Agents and Amazon Bedrock
         </sub>
       </p>
       <p>
-        <a href="https://github.com/Omggdavidd/openloops">Explore the source →</a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://yourbrand-showcase.vercel.app"><img src="assets/yourbrand-site.jpg" alt="YourBrand kitchen renovation homepage" width="100%" /></a>
-      <h3>YourBrand</h3>
-      <p><sub><img src="assets/status-dev.svg" width="11" height="11" alt="" />&nbsp; In development</sub></p>
-      <p>
-        A website example built for a client working on kitchens,
-        bathrooms, and built-ins. Responsive presentation and an
-        enquiry form give the work a clear home online.
-      </p>
-      <p>
-        <sub>
-          HTML · CSS · JavaScript · Vercel · Resend
-        </sub>
-      </p>
-      <p>
-        <a href="https://yourbrand-showcase.vercel.app">Visit the website →</a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://locally-web-liard.vercel.app"><img src="assets/locally-demo.jpg" alt="Locally library demo with singles and albums, their covers and a search bar" width="100%" /></a>
-      <h3>Locally</h3>
-      <p><sub><img src="assets/status-dev.svg" width="11" height="11" alt="" />&nbsp; In development</sub></p>
-      <p>
-        A Mac music library tool with an iPhone companion.
-        Imports audio, manages metadata and artwork, and prepares
-        music for Spotify Local Files.
-      </p>
-      <p>
-        <sub>
-          Next.js · TypeScript · SwiftUI
-        </sub>
-      </p>
-      <p>
-        <a href="https://locally-web-liard.vercel.app">Try the live demo →</a> &nbsp; · &nbsp;
-        <a href="https://github.com/tdare514/locally">Explore the source →</a>
+        <a href="https://github.com/Omggdavidd/openloops">Explore the hackathon source →</a>
       </p>
     </td>
   </tr>
